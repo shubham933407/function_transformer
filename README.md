@@ -7,7 +7,7 @@ This project applies function transformation techniques to preprocess data and e
 
 Logistic Regression — linear decision boundary
 
-Decision Tree Classifier — non-linear, interpretable model
+Decision Tree Classifier.
 
 📈 Evaluation Metrics:
 
